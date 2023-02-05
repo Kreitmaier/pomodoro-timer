@@ -18,10 +18,7 @@
 </p>
 	    
 ## 💻 Sobre o projeto
-Desafio realizado com o intuito de testar os conceitos fundamentais do React que foram adquiridos durante o primeiro módulo do curso de [React](https://lp.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/). 
-
-O desafio consiste em desenvolver uma aplicação de controle de tarefas de acordo com o layout disponibilizado no [Figma](https://www.figma.com/), apesar de simples o aplicativo, durante o desenvolvimento foi possível exercitar os conceitos de Estado, Imutabilidade de estado, Listas e chaves no ReactJs, Propriedades e Componentização.
-
+Projeto realizado durante o segundo módulo do curso de [React](https://lp.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/). 
 
 ## 🎨 Layout
 
