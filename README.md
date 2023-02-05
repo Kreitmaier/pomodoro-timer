@@ -15,6 +15,7 @@
  <a href="#"><img alt="GitHub language top" src="https://img.shields.io/github/languages/top/kreitmaier/pomodoro-timer?color=%2304D361" /></a>  
  <a href="#"><img alt="Repository size" src="https://img.shields.io/github/repo-size/kreitmaier/pomodoro-timer" /></a> 
  <a href="#"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kreitmaier/pomodoro-timer" /></a>    
+ <a href="https://github.com/Kreitmaier/pomodoro-timer/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/kreitmaier/pomodoro-timer" /></a>  
 </p>
 	    
 ## 💻 Sobre o projeto
