@@ -19,7 +19,7 @@
 </p>
 	    
 ## 💻 Sobre o projeto
-Projeto realizado durante o segundo módulo do curso de [React](https://lp.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/). 
+Projeto realizado durante o segundo módulo do curso de [React](https://lp.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/) com o objetivo de aprender e colocar em prática conceitos como SPA, React Router DOM, Styled Components, React Hook Form, hook UseEffect, Contexto e Reducers no React.
 
 ## 🎨 Layout
 
