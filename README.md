@@ -5,11 +5,6 @@
 <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-yellowgreen"/>
 </p>
 
-![preview](./)
-<p align="center">
-🔗<a href="#">Acesse o projeto clicando aqui</a>
-</p>
-
 <p align="center">
  <a href="#"><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kreitmaier/pomodoro-timer?color=%2304D361" /></a> 
  <a href="#"><img alt="GitHub language top" src="https://img.shields.io/github/languages/top/kreitmaier/pomodoro-timer?color=%2304D361" /></a>  
