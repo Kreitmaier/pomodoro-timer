@@ -44,12 +44,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - <img alt="logo React" src="https://cdn.simpleicons.org/react/61DAFB" width="15" height="15" /> [React](https://pt-br.reactjs.org/)
 - <img alt="logo Typescript" src="https://cdn.simpleicons.org/typescript/3178C6" width="15" height="15" /> [TypeScript](https://www.typescriptlang.org/)
-- <img alt="logo Css Modules" src="https://cdn.simpleicons.org/cssmodules/gray" width="15" height="15" /> [CSS Modules](https://github.com/css-modules/css-modules)
+- <img alt="logo Styled Components" src="https://cdn.simpleicons.org/styledcomponents/#DB7093" width="15" height="15" /> [Styled Components](https://styled-components.com/)
 - <img alt="logo HTML 5" src="https://cdn.simpleicons.org/html5/E34F26" width="15" height="15" /> [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- <img alt="logo Vitejs" src="https://cdn.simpleicons.org/eslint/#4B32C3" width="15" height="15" /> [ESLint](https://eslint.org/)
 - <img alt="logo Vitejs" src="https://cdn.simpleicons.org/vite/646CFF" width="15" height="15" /> [Vitejs](https://vitejs.dev/)
 
 ### Dependências - <img alt="logo NPM" src="https://cdn.simpleicons.org/npm/CB3837" width="15" height="15" /> [NPM](https://www.npmjs.com/)
-- Em brave
+- [@hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers)
+- [date-fns](https://www.npmjs.com/package/date-fns)
+- [immer](https://www.npmjs.com/package/immer)
+- [phosphor-react](https://www.npmjs.com/package/phosphor-react)
+- [react-hook-form](https://www.npmjs.com/package/react-hook-form)
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+- [zod](https://www.npmjs.com/package/zod)
 
 
 ## 🚀 Como executar o projeto
