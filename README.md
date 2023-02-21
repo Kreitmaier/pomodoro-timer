@@ -33,8 +33,8 @@ O layout da aplicação está disponível no Figma:
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   
-  <img alt="Em Breve" src="#" />
-  <img alt="Em Breve" src="#" />
+  <img alt="Layout da página Home" src="https://github.com/Kreitmaier/pomodoro-timer/blob/main/src/assets/Home.png" />
+  <img alt="Layout da página Histórico" src="https://github.com/Kreitmaier/pomodoro-timer/blob/main/src/assets/Hist%C3%B3rico.png" />
 
 </p>
 
